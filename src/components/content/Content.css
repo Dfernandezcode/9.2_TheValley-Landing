@@ -1,0 +1,19 @@
+.content-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+    
+} 
+
+.content-box__maintext {
+    font-size: 70px;
+    text-align: center;
+}
+
+.content-box__subtext {
+    text-align: center;
+    width: 500px;
+    font-size: 18px;
+}

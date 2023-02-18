@@ -1,0 +1,31 @@
+.header__link-links {
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    color: #b32f7a;
+}
+
+.header__link-links:hover{
+    cursor: pointer;
+    border-bottom: solid 1px #b32f7a;
+}
+
+.header__link-register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #b32f7a;
+    color: #fff;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.header__link-register:hover {
+    background-color: purple;
+}
+
+
